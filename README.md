@@ -1,2 +1,3 @@
 # Decisions_Roulete
-decisnoes faciles
+Decisiones faciles
+
